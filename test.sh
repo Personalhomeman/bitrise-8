@@ -5,5 +5,6 @@ echo "hello world"
 
 echo $SCRIPT_URL
 
-system_profiler | grep "Model Identifier"
+sw_vers
 
+echo 
